@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #ff2a86;
-    --alto-contraste-fundo: #80210e;
+    --alto-contraste-fundo: #d984a0;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #04ff00;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #f7e2a1;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ba1a74;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #eff2aadf;
 
 }
 
